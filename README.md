@@ -99,3 +99,5 @@ endmodule
 **Result:**
 The truth table was verified.
 
+
+
